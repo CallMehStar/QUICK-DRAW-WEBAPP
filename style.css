@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(252, 221, 203);
+}
+
+#Score {
+    font-size: 1cm;
+    float: left;
+    margin-left: 100px;
+}
+
+#Timer {
+    font-size: 1cm;
+    float: right;
+    margin-right: 100px;
+}
+
+p {
+    font-size: 0.6cm;
+}
+
+#SketchToBeDrawn {
+    color: rgb(166, 120, 218);
+}
